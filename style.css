@@ -1,0 +1,66 @@
+img {
+    width: 200px;
+  }
+
+.Box {
+    background-color: rgb(189, 183, 183);
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    padding: 50px;
+    align-content: center;
+
+    
+  }
+
+  .githup0 {
+    text-align: center;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 72px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+  .githup {
+    
+    height: 200px;
+    background-color: rgb(229, 191, 191);
+    padding: 20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 
+  }
+
+.githup2 {
+    
+    height: 200px;
+    background-color: rgb(245, 168, 168);
+    padding: 10px;;
+    display: flex;
+    align-items: center;
+    margin:20px ;
+    justify-content: space-around;
+    
+}
+
+.githup3 {
+    
+    height: 200px;
+    background-color: rgb(227, 117, 117);
+    padding: 10px;;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-around;
+    
+}
+  .footer {
+    text-align: center;
+    color:rgba(0, 0, 0, 0.685);
+  }
+  .ft { text-decoration: underline;
+    color: rgb(100, 145, 152);
+  }
